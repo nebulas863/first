@@ -1,0 +1,173 @@
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0%;
+}
+html {
+    width: 100%;
+    height: 100%;
+    background: url(./Images/good.jpg) no-repeat center center/cover;
+}
+
+.foe {
+    /* border: 3px solid red; */
+    margin: 30px;
+    height: 570px;
+    background-color: white;
+}
+/* header */
+.enemy {
+    /* border: 2px solid green; */
+    margin: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.kay {
+    /* border: 1px solid red; */
+    flex: 2;
+}
+.kkk {
+    color: orange;
+    padding-left: 10px;
+}
+
+.kiddo {
+    /* border: 1px solid blue; */
+    flex: 2;
+}
+.adesina {
+    display: flex;
+    justify-items: center;
+}
+.fego {
+    list-style: none;
+    padding-left: 40px;
+}
+.nebu {
+    /* border: 1px solid yellow; */
+    flex: 1;
+}
+.titan {
+    display: flex;
+}
+.eren {
+    list-style: none;
+}
+.boy {
+    padding-left: 50px;
+}
+.sear {
+    /* height: ; */
+    width: 25%;
+}
+.car {
+    width: 20%;
+}
+
+/* SECTION */
+
+.supplies {
+    /* border: 3px solid blue; */
+    display: flex;
+    margin: 40px 50px 0 50px;
+}
+
+.milk {
+    /* border: 1px solid forestgreen; */
+    flex: 2;
+}
+.ororo {
+    display: flex;
+    padding: 10px;
+}
+.blue {
+    border: 1px solid rgb(190, 178, 178);
+    padding: 20px 10px;
+    background-color: orange;
+    border-radius: 5px;
+    color: #f5f5f5;
+    height: 100%;
+    
+}
+.red {
+    padding: 0 10px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.sub {
+    /* border: 1px solid gray; */
+    padding-left: 5px;
+    font-size: small;
+    font-family: cursive;
+    font-size: 12px;
+}
+.pele {
+    /* border: 1px solid firebrick; */
+    padding-left: 5px;
+    font-family: monospace;
+    font-size: 30px;
+}
+.fiona {
+    /* border: 1px solid blueviolet; */
+    padding-left: 5px;
+    font-size: 12px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+.jug {
+    margin-bottom: 30px;
+}
+
+.choco {
+    /* border: 1px solid purple; */
+    flex: 2;
+    /* padding-left: 50px; */
+}
+.milo {
+    width: 60%;
+    padding-left: 70px;
+
+}
+
+.custard {
+    /* border: 1px solid black; */
+    flex: 1;
+}
+.dicks {
+    margin-top: 100px;
+}
+.men {
+    list-style: none;
+    padding-left: 40px;
+    padding-top: 15px;
+    /* border: 1px solid black; */
+    height: 100%;
+    border-radius: 5px;
+}
+.prick {
+    width: 25%;
+}
+
+
+/* footer */
+
+.last {
+    /* border: 2px solid brown; */
+    width: 10%;
+    margin: 0 15px;
+}
+.hate {
+    width: 100%;
+}
+
+.gad {
+    display: flex;
+}
+
+.shy {
+    list-style: none;
+}
